@@ -55,8 +55,9 @@ It supports **single-time** and **multi-time** tariffs, and performs detailed ta
 
 ---
 
-## 📄 License
+## 📄 Disclaimer
 
+This project was developed as part of the **Algorithm and Programming - Project 1** coursework. 
 This project was developed for **academic and demonstration purposes only**.  
 The electricity billing fees and tax rates used in this system are **based on available data at the time of development** and **may no longer reflect current legal tariffs or regulations**.  
 It is **not intended for real-world deployment** without proper updates and validation against official billing standards and energy laws.
